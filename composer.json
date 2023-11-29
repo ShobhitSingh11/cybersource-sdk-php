@@ -26,5 +26,8 @@
   "autoload": {
     "classmap": ["lib/"]
   },
+  "scripts": {
+      "test": "vendor/bin/phpunit"
+  },
   "include-path": ["lib/conf/"]
 }
